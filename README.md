@@ -1,4 +1,4 @@
-# Hi 👋 I'm Harini
+# Hi I'm Harini
 
 💻 MERN Stack Developer | B.Tech IT Student  
 🎓 Mohammed Sathak Engineering College (2022 – 2026)  
